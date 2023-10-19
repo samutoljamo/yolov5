@@ -1,3 +1,9 @@
+# League minimap recognizer
+- Recognizes champions on league of legends minimap using YOLO5-object recognition algorithm
+- This is a yolo fork to which I added a script to generate the required training data and it can be trained using the documentation given by the main project
+
+# YOLOv5
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
